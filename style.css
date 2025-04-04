@@ -2,7 +2,7 @@
     /* colors */
     --primary-color: #dfdfe2;
     --secondary-color: #ffffff;
-    --app-background-color: #4d4d62;
+    --app-background-color: #000;
     --background-color: #1b1b32;
     --foreground-color: #3b3b4f;
     --highlight-color: #f1be32;
@@ -32,7 +32,12 @@
     font-size: 1.125rem;
     line-height: 1.6;
   }
-  
+  .logo-link{
+    font-size: 1.125rem;
+    text-decoration: none;
+    color: var(--primary-color);
+  }
+
   h2 {
     font-size: var(--root-font-size);
   }
