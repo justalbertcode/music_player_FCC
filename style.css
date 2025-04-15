@@ -46,18 +46,8 @@
     margin: 0;
   }
   
-  /* .container {
-    margin-top: 10px;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    row-gap: 5px;
-  }
-   */
+ 
    .container {
-    
-    
     width: 100%;
     height: auto;
     background-color: var(--primary-white);
@@ -66,7 +56,6 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    
   }
 
 /* HEADER BLOCK */
